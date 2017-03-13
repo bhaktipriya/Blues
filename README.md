@@ -1,4 +1,5 @@
 Read more about this from my website. https://bhaktipriya96.wordpress.com/generative-learning-blues-composer/
+
 <span style="font-weight:400;">My deep interests in Music and Mathematics, lead me into building an AI Blues composer, that generates original Blues tunes using Restricted Boltzmann machines, Gibbs Sampling and a massive collection of popular Blues MIDI files. You can find the code [here](https://github.com/bhaktipriya/Blues).</span> <span style="font-weight:400;">Here's a closer look at the project:</span>
 
 ## Restricted Boltzmann machines:
